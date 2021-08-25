@@ -1,0 +1,7 @@
+com\example\controller\MsgController.class
+com\example\SimpleKafkaExampleApplication.class
+com\example\config\SimpleKafkaTemplate.class
+com\example\dto\Address.class
+com\example\dto\UserDto.class
+com\example\config\KafkaConsumerConfig.class
+com\example\config\KafkaProducerConfig.class
